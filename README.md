@@ -1,13 +1,8 @@
 ![sahil kakwani header](https://github.com/sahilkakwani9/sahilkakwani9/raw/main/Git_and_GitHub_differences_header.jpg)
 
 ### Namaste 🙏
-A React Js Developer satisfying his curiosity
-<ul>
-  <li>🎓 Pursuing Bachelors in Information Technology.</li>
-  <li>⚒ Web Devloper at Hack-Club SVIT.</li>
-  <li>🌟 Currently a Freelancer looking for roles.</li>
-  <li>👀 Looking to colloborate and Learn.</li>
-<ul/>
+A React Js Developer satisfying his curiosity. You'll see me making some commits untill i find something more interesting than coding.
+
   
 
 <br>
@@ -16,7 +11,7 @@ A React Js Developer satisfying his curiosity
  <br>
   
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/sahilkakwani9/count.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=sahilkakwani9.sahilkakwani9)
 <!--
 **sahilkakwani9/sahilkakwani9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
