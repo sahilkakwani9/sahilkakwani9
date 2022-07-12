@@ -1,7 +1,7 @@
 ![sahil kakwani header](https://github.com/sahilkakwani9/sahilkakwani9/raw/main/Git_and_GitHub_differences_header.jpg)
 
 ### Namaste 🙏
-A React Js Developer satisfying his curiosity. You'll see me making some commits untill i find something more interesting than coding.
+A React Js Developer satisfying his curiosity. You'll find me making some commits untill i find something more interesting than coding.
 
   
 
